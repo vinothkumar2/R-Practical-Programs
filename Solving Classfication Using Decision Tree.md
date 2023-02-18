@@ -57,5 +57,9 @@ We then use the predict function to make predictions on the testing set. We pass
 Finally, we print the accuracy of the model to the console.
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/68177619/219874799-d0171b51-0950-42b8-a364-eceb4b22fe74.png?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/68177619/219881064-34581361-702d-4dc8-af83-cd7e9192dbee.png)
 
+
+## Created by
+
+- [@vinothkumar](https://github.com/vinothkumar2/)
