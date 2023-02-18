@@ -63,6 +63,6 @@ In this example, the root node attribute selected by the model is Petal.Length, 
 
 ![App Screenshot](https://user-images.githubusercontent.com/68177619/219880330-1d56a2da-550d-4e69-ba16-d1e6e2a29e38.png?text=App+Screenshot+Here)
 
-## Created By
+## Created by
 
 - [@vinothkumar](https://github.com/vinothkumar2/)
