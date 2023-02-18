@@ -58,7 +58,11 @@ Next, we use the rpart.plot function to visualize the decision tree. We pass in 
 We then use the $variable attribute of the model object to print the root node attribute selected by the model. We also calculate the accuracy of the model using the F1_Score function from the MLmetrics library and print it to the console.
 
 In this example, the root node attribute selected by the model is Petal.Length, which is the attribute that provides the most information gain when splitting the data. The model has an accuracy of 0.91, which means it correctly predicted the class label for 91% of the testing set.
+
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/68177619/219874799-d0171b51-0950-42b8-a364-eceb4b22fe74.png?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/68177619/219880330-1d56a2da-550d-4e69-ba16-d1e6e2a29e38.png?text=App+Screenshot+Here)
 
+## Created By
+
+- [@vinothkumar](https://github.com/vinothkumar2/)
