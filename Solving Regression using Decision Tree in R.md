@@ -45,6 +45,6 @@ Finally, we use the predict function to make predictions on new data. We create 
 
 ![App Screenshot](https://user-images.githubusercontent.com/68177619/219874799-d0171b51-0950-42b8-a364-eceb4b22fe74.png?text=App+Screenshot+Here)
 
-## Created By
+## Created by
 
 - [@vinothkumar](https://github.com/vinothkumar2/)
