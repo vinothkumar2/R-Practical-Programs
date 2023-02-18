@@ -40,3 +40,11 @@ We then use the rpart function to build the decision tree model, specifying the 
 Next, we use the rpart.plot function to visualize the decision tree. We pass in the model object as an argument, and specify some optional parameters to customize the appearance of the plot.
 
 Finally, we use the predict function to make predictions on new data. We create a new data frame new_data with some values for the speed variable, and use the predict function to make predictions based on the decision tree model. We print the predictions to the console using the print function.
+
+## Screenshots
+
+![App Screenshot](https://user-images.githubusercontent.com/68177619/219874799-d0171b51-0950-42b8-a364-eceb4b22fe74.png?text=App+Screenshot+Here)
+
+## Author
+
+- [@vinothkumar](https://github.com/vinothkumar2/)
