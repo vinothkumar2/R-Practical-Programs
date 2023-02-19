@@ -53,5 +53,9 @@ This program loads the mtcars dataset, selects columns to cluster, and performs 
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/68177619/219874799-d0171b51-0950-42b8-a364-eceb4b22fe74.png?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/68177619/219945751-25b76d96-2d85-4096-b163-52ab3d4c0996.png)
 
+
+## Created by
+
+- [@vinothkumar](https://github.com/vinothkumar2/)
